@@ -396,8 +396,8 @@ display:
     color_order: RGB
     pclk_frequency: 16MHz
     dimensions:
-      width: 800
-      height: 480
+      width: 1024
+      height: 768
     reset_pin:
       ch422g: io_ex
       number: 3
