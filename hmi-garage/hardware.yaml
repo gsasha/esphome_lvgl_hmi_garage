@@ -397,7 +397,7 @@ display:
     pclk_frequency: 16MHz
     dimensions:
       width: 1024
-      height: 768
+      height: 600
     reset_pin:
       ch422g: io_ex
       number: 3
