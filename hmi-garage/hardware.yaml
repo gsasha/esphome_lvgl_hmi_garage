@@ -394,7 +394,7 @@ display:
     update_interval: never
     auto_clear_enabled: false
     color_order: RGB
-    pclk_frequency: 45MHz
+    pclk_frequency: 30MHz
     dimensions:
       width: 1024
       height: 600
